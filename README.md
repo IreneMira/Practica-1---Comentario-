@@ -1,5 +1,5 @@
 # Practica 1
-## Comentario artículo *"Shots heard around the District"* The Washington Post
+## Comentario artículo *<a href="https://www.washingtonpost.com/wp-srv/special/local/dc-shot-spotter/"> Shots heard around the District</a>* The Washington Post
 El periodismo de datos se trata de una especialidad del periodismo que consiste en recabar y analizar grandes cantidades de datos mediante software especializado y hacer comprensible la información a la audiencia a través de artículos, infografías, visualizaciones de datos o aplicaciones interactivas. 
 
 Muchos de los artículos periodísticos que vemos actualmente hacen un importante uso del periodismo de datos, convirtiendo a esta parte del periodismo en el futuro más cercano de esta disciplina. 
