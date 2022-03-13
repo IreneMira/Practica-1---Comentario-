@@ -21,4 +21,8 @@ A parte de los datos que nos ofrece el propio gráfico también se puede analiza
 
 En el norte encontramos ciudades que también han padecido duras consecuencias debido a la pandemia, al igual que en el sur del país, sin embargo, esta última zona es la que menos personas afectadas y fallecidos han tenido -el tamaño de los círculos que indican estos datos son más semejantes entre ellos-. 
 
+*Mapa regiones Argentina*
+![Imagen text](https://github.com/IreneMira/Repositorio-IreneMira/blob/main/regiones.png) 
+
+
 
