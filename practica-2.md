@@ -1,8 +1,11 @@
-Coronavirus. El avance del virus en tiempo real
+## <a href="https://www.lanacion.com.ar/el-mundo/coronavirus-asi-es-avance-del-virus-se-nid2328201/">Coronavirus. El avance del virus en tiempo real</a>
 
-El gráfico sujeto a análisis se encuentra dentro del artículo periodístico “Coronavirus. El avance del virus en tiempo real” publicado en el diario argentino La Nación -uno de los más importantes en este país- el 20 de marzo de 2020, pero cuya última actualización ha sido el 7 de marzo de 2022. Con esto vemos como se trata de un claro ejemplo y del buen uso que se puede hacer del periodismo de datos. Se trata de un artículo en el que solo se ofrece información mediante gráficos (los cuales son interactivos), tablas o imágenes entre otros recursos, los cuales son propios y son posibles gracias a esta disciplina dentro del periodismo.  
+El gráfico sujeto a análisis se encuentra dentro del artículo periodístico <a href="https://www.lanacion.com.ar/el-mundo/coronavirus-asi-es-avance-del-virus-se-nid2328201/">“Coronavirus. El avance del virus en tiempo real”</a> publicado en el diario argentino La Nación -uno de los más importantes en este país- el 20 de marzo de 2020, pero cuya última actualización ha sido el 7 de marzo de 2022. Con esto vemos como se trata de un claro ejemplo y del buen uso que se puede hacer del periodismo de datos. Se trata de un artículo en el que solo se ofrece información mediante gráficos (los cuales son interactivos), tablas o imágenes entre otros recursos, los cuales son propios y son posibles gracias a esta disciplina dentro del periodismo.  
 
 La elección de este medio ha sido, principalmente, para ofrecer una narrativa y cifras diferentes a las que estamos, quizá, más familiarizadas por los medios de comunicación españoles o europeos. Además, cuando se habla de la COVID-19 nos centramos principalmente en los países nombrados u occidentales, dejando a un lado, aquellos como los países de América del Sur, Asia o África, siendo los que más han padecido las consecuencias de esta pandemia. 
+
+*Imagen de la vacuna contra la COVID19*
+![Imagen text](https://github.com/IreneMira/Repositorio-IreneMira/blob/main/vacuna.png) 
 
 El coronavirus ha sido un acontecimiento a nivel mundial que ha servido para que los diarios, a nivel mundial también, desarrollen sus equipos dentro del periodismo de datos, ya que esta enfermedad necesita una actualización de datos constante. Este ha sido otro de los motivos de la elección de dicho artículo. 
 
@@ -17,5 +20,9 @@ Aparecen, en el mapa y con su respectivo círculo (información de las personas 
 A parte de los datos que nos ofrece el propio gráfico también se puede analizar como las ciudades que poseen los círculos de mayor tamaño son las que corresponden a las ciudades con mayor número de habitantes y, además, la mayoría se encuentran en el este del país.
 
 En el norte encontramos ciudades que también han padecido duras consecuencias debido a la pandemia, al igual que en el sur del país, sin embargo, esta última zona es la que menos personas afectadas y fallecidos han tenido -el tamaño de los círculos que indican estos datos son más semejantes entre ellos-. 
+
+*Mapa regiones Argentina*
+![Imagen text](https://github.com/IreneMira/Repositorio-IreneMira/blob/main/regiones.png) 
+
 
 
